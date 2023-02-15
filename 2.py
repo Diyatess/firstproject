@@ -1,0 +1,5 @@
+color=input("enter the colors")
+colours=color.split(',')
+print(colours)
+print(colours[0])
+print(colours[-1])
